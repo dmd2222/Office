@@ -8,3 +8,16 @@ My build is extremely easy to install and exclusive.
 You will just need to run "Office_installer.exe".
 
 That's all!
+
+inside:
++ WORD
++ EXCEL
++ POWERPOINT
++ ACCESS
++ OUTLOOK
++ ONENOTE
++ TEAMS
++ PUBLISHER
+
+# Attention!
+This build is only for win 10/11 x64 
