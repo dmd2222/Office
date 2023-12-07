@@ -21,3 +21,6 @@ inside:
 
 # Attention!
 This build is only for win 10/11 x64 
+
+# Windows 7
+Confirmed -  Windows 7 Professional ist not working.
